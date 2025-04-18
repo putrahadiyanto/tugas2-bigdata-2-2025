@@ -123,7 +123,3 @@ Kontribusi untuk proyek ini sangat disambut. Silakan ikuti langkah-langkah berik
 ## Lisensi
 
 Didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
-
-## Kontak
-
-Email: [email@example.com](mailto:email@example.com)
